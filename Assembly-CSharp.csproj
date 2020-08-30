@@ -50,9 +50,9 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\scripts\DashBehaviour.cs" />
      <Compile Include="Assets\scripts\JumpBehaviour.cs" />
      <Compile Include="Assets\scripts\WalkBehaviour.cs" />
-     <Compile Include="Assets\scripts\DashBehaviour.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>D:/Created With Unity/2d_side_scroller_game/2d_side_scroller/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>

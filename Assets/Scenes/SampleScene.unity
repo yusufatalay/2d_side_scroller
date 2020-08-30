@@ -707,11 +707,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e9932bc2c09a42d4fb7b324c53c7747b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  dashCooldown: 0
+  canIDash: 1
+  dashSpeed: 500
+  savedVelocity: {x: 0, y: 0}
   playerRigidBody: {fileID: 0}
-  dashingSpeed: 100
-  dashTime: 0
-  startDashTime: 0.1
-  direction: 0
 --- !u!1 &1212294037
 GameObject:
   m_ObjectHideFlags: 0
